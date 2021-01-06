@@ -62,6 +62,12 @@ https://github.com/ingafter60/django_job_portal
 
 ### 8.106. How To Create Our First Html File
 
+        modified:   README.md
+        modified:   config/urls.py
+        new file:   jobs/urls.py
+        modified:   jobs/views.py
+        new file:   templates/jobs/home.html
+
 ### 9.107. How To Create Base Html
 
 10.108. Creating Our First Model
