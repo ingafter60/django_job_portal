@@ -24,9 +24,19 @@ https://github.com/ingafter60/django_job_portal
 
 ### 3.101. How To Install PostgresQL Server
 
-### 4.102. How To Install Mysqlclient Package
+        PASS
 
-### 5.103. How TO Create MySQL Database For Our Project
+### 4.102. How To Install Psycopg2 driver
+
+        > pip install psycopg2
+
+### 5.103. How TO Create postgres Database and set it up for Our Project
+
+        > CREATE DATABASE django2021_mc_job_portal;
+        > CREATE USER user2021 WITH PASSWORD '2021';
+        > GRANT ALL PRIVILEGES ON DATABASE django2021_mc_job_portal TO user2021;
+        modified:   README.md
+        modified:   config/settings.py
 
 ### 6.104. Creating Static Files Directory
 

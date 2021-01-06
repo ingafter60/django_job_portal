@@ -75,8 +75,12 @@ WSGI_APPLICATION = 'config.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'django2021_mc_job_portal',
+        'USER': 'user2021',
+        'PASSWORD': '2021',
+        'PORT': '5432',
+        'HOST': 'localhost'
     }
 }
 
