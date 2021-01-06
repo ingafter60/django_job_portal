@@ -48,7 +48,17 @@ https://github.com/ingafter60/django_job_portal
         ...
         new file:   static/css/aos.css
 
-### 7.105. How To Create Template Directory And Our First App
+### 7.105. How To Create a new app and add template directory
+
+        modified:   README.md
+        modified:   config/settings.py
+        new file:   jobs/__init__.py
+        new file:   jobs/admin.py
+        new file:   jobs/apps.py
+        new file:   jobs/migrations/__init__.py
+        new file:   jobs/models.py
+        new file:   jobs/tests.py
+        new file:   jobs/views.py
 
 ### 8.106. How To Create Our First Html File
 
