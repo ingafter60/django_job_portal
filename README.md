@@ -38,7 +38,15 @@ https://github.com/ingafter60/django_job_portal
         modified:   README.md
         modified:   config/settings.py
 
-### 6.104. Creating Static Files Directory
+### 6.104. Creating Static Files Directory and add assets to it
+
+        modified:   README.md
+        modified:   config/settings.py
+        new file:   static/css/.DS_Store
+        new file:   static/css/ajax-loader.gif
+        new file:   static/css/animate.css
+        ...
+        new file:   static/css/aos.css
 
 ### 7.105. How To Create Template Directory And Our First App
 
