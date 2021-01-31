@@ -140,7 +140,18 @@ https://github.com/ingafter60/django_job_portal
         modified:   jobs/views.py
         modified:   templates/jobs/partials/recently_added_jobs.html
         
-18.116. How To Create Category Model
+### 18.116. How To Create Category Model
+
+        modified:   README.md
+        modified:   config/settings.py
+        modified:   jobs/admin.py
+        new file:   jobs/migrations/0002_auto_20210131_1547.py
+        modified:   jobs/models.py
+        modified:   jobs/views.py
+        modified:   templates/jobs/index.html
+        renamed:    templates/jobs/partials/recently_added_jobs.html -> templates/jobs/partials/categories.html
+        renamed:    templates/jobs/partials/current_job_posts.html -> templates/jobs/partials/job_posts.html
+        
 19.117. How To Solve Integrity Error For Our Categories
 20.118. How To Display Categories in Our Template File
 21.119. How To Create User Register Form
