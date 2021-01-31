@@ -68,7 +68,24 @@ https://github.com/ingafter60/django_job_portal
         modified:   jobs/views.py
         new file:   templates/jobs/home.html
 
-### 9.107. How To Create Base Html
+### 9.107. How To Create Base Html with template inheritance
+
+        modified:   .gitignore
+        modified:   LICENSE
+        modified:   README.md
+        modified:   jobs/urls.py
+        modified:   jobs/views.py
+        new file:   templates/base.html
+        deleted:    templates/jobs/home.html
+        new file:   templates/jobs/index.html
+        new file:   templates/jobs/partials/banner.html
+        new file:   templates/jobs/partials/blog.html
+        new file:   templates/jobs/partials/current_job_posts.html
+        new file:   templates/jobs/partials/head.html
+        new file:   templates/jobs/partials/newsletter.html
+        new file:   templates/jobs/partials/number_of_jobs.html
+        new file:   templates/jobs/partials/recently_added_jobs.html
+        new file:   templates/jobs/partials/testimonial.html
 
 10.108. Creating Our First Model
 11.109. How To Create UserManager Class
