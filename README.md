@@ -128,7 +128,12 @@ https://github.com/ingafter60/django_job_portal
         modified:   README.md
         modified:   jobs/views.py
 
-16.114. How To List Our Jobs
+### 16.114. (Rendering jobs) How To List Our Jobs
+
+        modified:   README.md
+        modified:   jobs/views.py
+        modified:   templates/jobs/partials/recently_added_jobs.html
+        
 17.115. How To Use Pagination
 18.116. How To Create Category Model
 19.117. How To Solve Integrity Error For Our Categories
