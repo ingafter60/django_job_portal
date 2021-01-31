@@ -116,7 +116,13 @@ https://github.com/ingafter60/django_job_portal
         modified:   README.md
         modified:   users/admin.py
 
-14.112. How To Create Our Model
+### 14.112. Create Job Model
+
+        modified:   README.md
+        modified:   jobs/admin.py
+        new file:   jobs/migrations/0001_initial.py
+        modified:   jobs/models.py
+
 15.113. How To Use A Generic View For Job Model
 16.114. How To List Our Jobs
 17.115. How To Use Pagination
