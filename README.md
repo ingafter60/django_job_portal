@@ -134,7 +134,12 @@ https://github.com/ingafter60/django_job_portal
         modified:   jobs/views.py
         modified:   templates/jobs/partials/recently_added_jobs.html
         
-17.115. How To Use Pagination
+### 17.115. How To Use Pagination
+
+        modified:   README.md
+        modified:   jobs/views.py
+        modified:   templates/jobs/partials/recently_added_jobs.html
+        
 18.116. How To Create Category Model
 19.117. How To Solve Integrity Error For Our Categories
 20.118. How To Display Categories in Our Template File

@@ -7,5 +7,6 @@ from .models import Job
 class HomeView(ListView):
 
 	model 				= Job
-	template_name 		= 'jobs/index.html'
 	context_object_name = 'jobs'
+	paginate_by 		= 2
+	template_name 		= 'jobs/index.html'
