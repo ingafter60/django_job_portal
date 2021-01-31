@@ -106,7 +106,11 @@ https://github.com/ingafter60/django_job_portal
         new file:   users/urls.py
         new file:   users/views.py
         
-12.110. How To Create Superuser
+### 12.110. How To Create Superuser
+
+        modified:   README.md
+        modified:   users/admin.py
+        
 13.111. How To Create Add And Update User Functions
 14.112. How To Create Our Model
 15.113. How To Use A Generic View For Job Model
