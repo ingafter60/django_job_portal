@@ -87,8 +87,25 @@ https://github.com/ingafter60/django_job_portal
         new file:   templates/jobs/partials/recently_added_jobs.html
         new file:   templates/jobs/partials/testimonial.html
 
-10.108. Creating Our First Model
-11.109. How To Create UserManager Class
+### 10.108. Creating Our First Model
+        
+        See 11.109
+
+### 11.109. +  10.108. (Creating Custom User) How To Create UserManager Class
+
+        modified:   README.md
+        modified:   config/settings.py
+        modified:   config/urls.py
+        new file:   users/__init__.py
+        new file:   users/admin.py
+        new file:   users/apps.py
+        new file:   users/migrations/0001_initial.py
+        new file:   users/migrations/__init__.py
+        new file:   users/models.py
+        new file:   users/tests.py
+        new file:   users/urls.py
+        new file:   users/views.py
+        
 12.110. How To Create Superuser
 13.111. How To Create Add And Update User Functions
 14.112. How To Create Our Model
