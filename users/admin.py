@@ -14,5 +14,24 @@ class MyAdminAccounts(UserAdmin):
     readonly_fields = ['date_joined']
 
 
+    add_fieldsets = (
+        (None, {
+            'classes':('wide',),
+            'fields':(
+            	'email','first_name','last_name','password1',
+            	'password2','is_employee','is_employer','is_active')
+        }),
+    )
+
+    fieldsets = (
+        (None,{'fields':('email','first_name','last_name','password')}),
+        ('Permissions',
+        	{
+        		'fields':('is_staff','is_active','is_employee','is_employer')
+        	}
+        )
+    )
+
+
 # Register your models here.
 admin.site.register(Account, MyAdminAccounts)

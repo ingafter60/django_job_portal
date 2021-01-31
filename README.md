@@ -111,7 +111,11 @@ https://github.com/ingafter60/django_job_portal
         modified:   README.md
         modified:   users/admin.py
         
-13.111. How To Create Add And Update User Functions
+### 13.111. How To Create Add And Update User Functions
+
+        modified:   README.md
+        modified:   users/admin.py
+
 14.112. How To Create Our Model
 15.113. How To Use A Generic View For Job Model
 16.114. How To List Our Jobs
