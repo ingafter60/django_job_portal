@@ -123,7 +123,11 @@ https://github.com/ingafter60/django_job_portal
         new file:   jobs/migrations/0001_initial.py
         modified:   jobs/models.py
 
-15.113. How To Use A Generic View For Job Model
+### 15.113. Add some entries to jobs table and Use A Generic View For Job Model
+
+        modified:   README.md
+        modified:   jobs/views.py
+
 16.114. How To List Our Jobs
 17.115. How To Use Pagination
 18.116. How To Create Category Model
