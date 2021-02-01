@@ -20,6 +20,10 @@ class Category(models.Model):
         super(Category, self).save(*args,**kwargs)
 
 
+    def job_count(self):
+        # return self.jobs.all().count() * 300
+        return self.jobs.all().count()
+
 
 # MODEL: Job
 class Job(models.Model):

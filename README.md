@@ -152,8 +152,14 @@ https://github.com/ingafter60/django_job_portal
         renamed:    templates/jobs/partials/recently_added_jobs.html -> templates/jobs/partials/categories.html
         renamed:    templates/jobs/partials/current_job_posts.html -> templates/jobs/partials/job_posts.html
         
-19.117. How To Solve Integrity Error For Our Categories
-20.118. How To Display Categories in Our Template File
+### 19.117. How To Solve Integrity Error For Our Categories
+
+        PASSED
+
+### 20.118. How To Display Categories in Our Template File
+
+
+
 21.119. How To Create User Register Form
 22.120. Creating User Register Html File
 23.121. How To Register Our Users
